@@ -33,4 +33,4 @@ const AnalyzeButton = ({ onAnalyze, disabled }) => {
   );
 };
 
-export default AnalyzeButton;
+export default AnalyzeButton;  
